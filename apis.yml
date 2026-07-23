@@ -1,8 +1,28 @@
 aid: airtime
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/airtime.png
 name: Airtime
-description: 'Airtime is a company surfaced as a portfolio company of gv, softbank-vision-fund and added
-  to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: >-
+  Airtime is a video productivity platform offering essential tools for video at
+  work. Successor to the mmhmm brand, Airtime bundles four integrated products:
+  Camera (webcam enhancement and presenter effects for video calls), Recorder
+  (HD screen and quick-capture recording up to an hour), Creator (presentation
+  software that places the presenter inside their slides, supporting .ppt, .key
+  and .pdf) and Stacks (a collaborative tool for sharing and reviewing materials
+  in real time). It targets founders, educators, sales professionals and
+  distributed teams. Added to the API Evangelist network as a portfolio company
+  of GV and the SoftBank Vision Fund; this profile has been enriched with the
+  provider's public security, trust and compliance surface.
 url: https://raw.githubusercontent.com/api-evangelist/airtime/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -17,6 +37,12 @@ modified: '2026-07-17'
 tags:
 - Company
 - Consumer
+- Video
+- Productivity
+- Collaboration
+- Screen Recording
+- Presentations
+- Remote Work
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -25,4 +51,37 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://airtime.com
+  url: https://airtime.com
+- type: Pricing
+  url: https://airtime.com/en/pricing
+- type: SignUp
+  url: https://signin.app.airtimetools.com/ooo/sign-up
+- type: Login
+  url: https://signin.app.airtimetools.com/ooo/sign-in
+- type: Blog
+  url: https://airtime.com/en/blog
+- type: Support
+  url: https://help.airtime.com/hc
+- type: HelpCenter
+  url: https://help.airtime.com/hc
+- type: TermsOfService
+  url: https://airtime.com/en/legal/terms-of-service
+- type: PrivacyPolicy
+  url: https://airtime.com/en/legal/privacy-policy
+- type: TrustCenter
+  url: https://airtime.com/en/legal/trust-center
+- type: Compliance
+  url: https://airtime.com/en/legal/trust-center
+- type: Security
+  url: https://airtime.com/en/legal/responsible-disclosure-and-bug-bounty-policy
+- type: DomainSecurity
+  url: security/airtime-domain-security.yml
+- type: TrustCenter
+  url: security/airtime-trust-center.yml
+- type: VulnerabilityDisclosure
+  url: security/airtime-vulnerability-disclosure.yml
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

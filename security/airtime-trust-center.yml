@@ -1,0 +1,23 @@
+generated: '2026-07-17'
+method: searched
+source: https://airtime.com/en/legal/trust-center
+url: https://airtime.com/en/legal/trust-center
+certifications:
+- SOC 2 Type 2
+compliance_programs:
+- GDPR
+- CCPA
+security_measures:
+- encryption at rest and in transit
+- access controls with SSO and MFA
+- regular vulnerability scanning and penetration testing
+- incident response program
+- business continuity program
+- vendor management program
+notes: >-
+  Airtime (successor to mmhmm) publishes a trust/security posture page. SOC 2
+  Type 2 reports are available on request via sales@airtimetools.com. A dedicated
+  security and privacy team is maintained.
+evidence:
+- source: https://airtime.com/en/legal/trust-center
+  keywords: [soc 2 type 2, gdpr, ccpa, trust center]
