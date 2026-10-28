@@ -64,6 +64,90 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Airtime is a company surfaced as a portfolio company of gv, softbank-vision-fund and added to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting the enrichment pipeline.
+Airtime is a video productivity platform offering essential tools for video at work. Successor to the mmhmm brand, Airtime bundles four integrated products: Camera (webcam enhancement and presenter effects for video calls), Recorder (HD screen and quick-capture recording up to an hour), Creator (presentation software that places the presenter inside their slides, supporting .ppt, .key and .pdf) and Stacks (a collaborative tool for sharing and reviewing materials in real time). It targets founders, educators, sales professionals and distributed teams. Added to the API Evangelist network as a portfolio company of GV and the SoftBank Vision Fund; this profile has been enriched with the provider's public security, trust and compliance surface.
 
-Backed by: gv, softbank-vision-fund — http://airtime.com
+**Areas:** Company · Consumer · Video · Productivity · Collaboration · Screen Recording · Presentations · Remote Work
+
+## Airtime on APIs.io
+
+Everything profiled for Airtime is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/airtime/](https://apis.io/providers/airtime/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Airtime Domain Security](https://apis.io/security/airtime/airtime-domain-security/)
+- [Airtime Trust Center](https://apis.io/security/airtime/airtime-trust-center/)
+- [Airtime Vulnerability Disclosure](https://apis.io/security/airtime/airtime-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://airtime.com)
+- [Pricing](https://airtime.com/en/pricing)
+- [Sign up](https://signin.app.airtimetools.com/ooo/sign-up)
+- [Support](https://help.airtime.com/hc)
+- [Blog](https://airtime.com/en/blog)
+- [Security](https://airtime.com/en/legal/responsible-disclosure-and-bug-bounty-policy)
+- [Compliance](https://airtime.com/en/legal/trust-center)
+- [Trust centre](https://airtime.com/en/legal/trust-center)
+- [Terms of service](https://airtime.com/en/legal/terms-of-service)
+- [Privacy policy](https://airtime.com/en/legal/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 21.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 60.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/airtime/](https://apis.io/providers/airtime/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Airtime: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/airtime/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
